@@ -14,7 +14,8 @@
 Sou **apaixonado por tecnologia**, programação e tudo que envolve inovação digital. 
 No meu tempo livre, gosto de explorar áreas como Machine Learning, Inteligência Artificial e Desenvolvimento Web.
 
-Uso o nickname **"yocka"** para me **conectar** com o **mundo digital** e compartilhar meu aprendizado e projetos.
+Uso o nickname **"yocka"** para me **conectar** com o **mundo digital** e compartilhar meu aprendizado e projetos. 
+
 Sou alguém que busca evolução contínua e **acredita** no poder da **colaboração** e da **criatividade** para **resolver problemas complexos.**
 
 
