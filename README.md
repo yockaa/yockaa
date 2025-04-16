@@ -46,12 +46,8 @@ Sou alguém que busca evolução contínua e **acredita** no poder da **colabora
 <p align='center'>
 <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/>
 <a href="https://twitter.com/tapyocka"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a>
 <a href="https://instagram.com/yo.cka"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/>
-<a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a>
 <a href="https://linkedin.com/in/yocka"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
 </p>
 <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
