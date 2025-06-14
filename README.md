@@ -11,8 +11,9 @@
 - Nickname **Yocka** / **よっか**
 - Localização: **Natal, Rio Grande do Norte, Brasil**
 
-Sou **apaixonado por tecnologia**, programação e tudo que envolve inovação digital. 
-No meu tempo livre, gosto de explorar áreas como Machine Learning, Inteligência Artificial e Desenvolvimento Web.
+  Sou **apaixonado por tecnologia** e estou começando minha jornada na área de **cibersegurança** com **inteligência artificial**.
+  
+Atualmente sou estudante de **Tecnologia da Informação** e venho aprendendo os fundamentos de **redes, sistemas e programação.** Tenho muita **curiosidade** sobre como a IA pode ser usada para **melhorar** a **segurança digital** e tornar tudo mais automatizado e inteligente. Estou me preparando com foco e dedicação para crescer na área nos próximos anos.
 
 Uso o nickname **"yocka"** para me **conectar** com o **mundo digital** e compartilhar meu aprendizado e projetos. 
 
@@ -21,8 +22,8 @@ Sou alguém que busca evolução contínua e **acredita** no poder da **colabora
 
 
 💼 Cursando Bacharelado de TI @ UFRN • Futuro Engenheiro de Software  
-💻 Interesses em Machine Learning, IA e desenvolvimento web  
-📖 Estudando estruturas de dados, algoritmos, arquitetura de software e sistemas distribuídos  
+💻 Interesses em cibersegurança, sistemas operacionais e inteligência artificial aplicada à segurança  
+📖 Estudando os conceitos básicos de redes, sistemas operacionais, programação e fundamentos de segurança da informação       
 🎓 Pretendo fazer uma segunda graduação em **Engenharia de Software**  
 🌐 Aprendendo **Inglês** 🇺🇸 • Quero aprender **Francês** 🇫🇷 no futuro  
 🎮 Música • Games • Anime • Filmes • Código • Tecnologia 
