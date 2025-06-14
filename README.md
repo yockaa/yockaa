@@ -11,9 +11,7 @@
 - Nickname **Yocka** / **よっか**
 - Localização: **Natal, Rio Grande do Norte, Brasil**
 
-  Sou **apaixonado por tecnologia** e estou começando minha jornada na área de **cibersegurança**.
-  
-Atualmente sou estudante de **Tecnologia da Informação** e venho aprendendo os fundamentos de **redes, sistemas e programação.** Tenho muita **curiosidade** sobre como a IA pode ser usada para **melhorar** a **segurança digital** e tornar tudo mais automatizado e inteligente. Estou me preparando com foco e dedicação para crescer na área nos próximos anos.
+  Sou **apaixonado por tecnologia** e estou começando minha jornada na área de **cibersegurança**. Atualmente sou estudante de **Tecnologia da Informação** e venho aprendendo os fundamentos de **redes, sistemas e programação.** Tenho muita **curiosidade** sobre como a IA pode ser usada para **melhorar** a **segurança digital** e tornar tudo mais automatizado e inteligente. Estou me preparando com foco e dedicação para crescer na área nos próximos anos.
 
 Uso o nickname **"yocka"** para me **conectar** com o **mundo digital** e compartilhar meu aprendizado e projetos. 
 
