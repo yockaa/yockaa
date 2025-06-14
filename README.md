@@ -1,53 +1,84 @@
-<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
-<div>
-<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
-<br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
-<br/>
-<br/>
-<br/>
+<!-- Minimalist GitHub Profile - Yocka -->
 
-- Nome: **Wesley Alves** / **ウェズレイ・アルベス**
-- Nickname **Yocka** / **よっか**
-- Localização: **Natal, Rio Grande do Norte, Brasil**
+<!-- Header Image (pode trocar futuramente por algo mais dark) -->
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="Profile Header" />
 
-  Sou **apaixonado por tecnologia** e estou começando minha jornada na área de **cibersegurança**. Atualmente sou estudante de **Tecnologia da Informação** e venho aprendendo os fundamentos de **redes, sistemas e programação.** Tenho muita **curiosidade** sobre como a IA pode ser usada para **melhorar** a **segurança digital** e tornar tudo mais automatizado e inteligente. Estou me preparando com foco e dedicação para crescer na área nos próximos anos.
+<!-- Profile Section -->
+<div align="center">
+  <img src="https://i.ibb.co/s1PLVNZ/pp3.png" width="220" style="border-radius: 12px;" />
+  <h1>Wesley Alves • ウェズレイ・アルベス</h1>
+  <h3><strong>Yocka</strong> • よっか</h3>
+  <p><em>Natal, Rio Grande do Norte, Brazil</em></p>
+</div>
 
-Uso o nickname **"yocka"** para me **conectar** com o **mundo digital** e compartilhar meu aprendizado e projetos. 
+---
 
-Sou alguém que busca evolução contínua e **acredita** no poder da **colaboração** e da **criatividade** para **resolver problemas complexos.**
+### 👤 About Me
 
+I’m a passionate **Information Technology student** starting my journey in **Cybersecurity**.
 
+Currently focused on learning the fundamentals of:
+- Networking
+- Operating Systems
+- Programming
+- Information Security
 
-💼 Cursando Bacharelado de TI @ UFRN • Futuro Engenheiro de Software  
-💻 Interesses em cibersegurança, sistemas operacionais e inteligência artificial aplicada à segurança  
-📖 Estudando os conceitos básicos de redes, sistemas operacionais, programação e fundamentos de segurança da informação       
-🎓 Pretendo fazer uma segunda graduação em **Engenharia de Software**  
-🌐 Aprendendo **Inglês** 🇺🇸 • Quero aprender **Francês** 🇫🇷 no futuro  
-🎮 Música • Games • Anime • Filmes • Código • Tecnologia 
+I'm deeply curious about how **Artificial Intelligence** can enhance digital defense and bring smart automation to security systems.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yockaa&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
-<br/>
-<br/>
-<img src="./img/Repo-elaina.png" width="488" />
-<br/>
-<br/>
-  
-- 📗 [**Repositório**]() <br/>
-  Em processo...
+My goal is to grow consistently in the cybersecurity field over the next few years, blending **technical skill**, **creativity**, and **collaboration** to solve complex challenges.
 
-<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
-<br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
-<sub>“Nem todo bug é um erro — às vezes, é só o sistema mostrando onde podemos evoluir.“&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
-<br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=yockaa&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
-<br/><br/>
-<p align='center'>
-<img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/>
-<a href="https://twitter.com/tapyocka"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a>
-<a href="https://instagram.com/yo.cka"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/yocka"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a>
+---
+
+### 🧠 Personal Mission
+
+> I believe in lifelong learning, the power of community, and building a safer digital world through smart, ethical technology.
+
+---
+
+### 🎯 Goals & Interests
+
+- 💼 BSc in Information Technology @ UFRN  
+- 🎓 Future degree in Software Engineering (Second Cycle)  
+- 🧪 Areas of Interest: Cybersecurity, AI in Security, Linux, Systems, Automation  
+- 📚 Languages: Learning English 🇺🇸 • Future plan: Learn French 🇫🇷  
+- 🎮 Personal: Games • Anime • Code • Music • Cyberculture
+
+---
+
+### 📊 Languages & Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yockaa&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align="right" width="360" />
+
+<img src="./img/Repo-elaina.png" width="420" />
+
+- 📂 [**My Projects Repository**](#) — *Coming Soon*
+
+---
+
+### 🧩 Quote
+
+<sub>
+“Not every bug is a mistake — sometimes, it's the system showing us where we can evolve.”
+</sub>
+
+---
+
+### 🏆 Achievements
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=yockaa&no-bg=true&no-frame=true&theme=darkhub" />
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Website-DAC6C2?style=for-the-badge" /></a>
+  <a href="https://twitter.com/tapyocka"><img src="https://img.shields.io/badge/Twitter-DAC6C2?style=for-the-badge" /></a>
+  <a href="https://instagram.com/yo.cka"><img src="https://img.shields.io/badge/Instagram-DAC6C2?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/yocka"><img src="https://img.shields.io/badge/LinkedIn-DAC6C2?style=for-the-badge" /></a>
 </p>
-<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
+
+---
+
+<!-- Footer Image (livro, estudo, etc — pode trocar futuramente por algo com mais identidade visual) -->
+<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" />
