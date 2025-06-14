@@ -1,11 +1,11 @@
 <!-- Minimalist GitHub Profile - Yocka -->
 
-<!-- Header Image (pode trocar futuramente por algo mais dark) -->
+<!-- Header Image -->
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="Profile Header" />
 
 <!-- Profile Section -->
 <div align="center">
-  <img src="https://i.ibb.co/s1PLVNZ/pp3.png" width="220" style="border-radius: 12px;" />
+  <img src="https://github.com/yockaa/yockaa/blob/main/img/@knowthisdream_.jpeg?raw=true" width="220" style="border-radius: 12px;" />
   <h1>Wesley Alves • ウェズレイ・アルベス</h1>
   <h3><strong>Yocka</strong> • よっか</h3>
   <p><em>Natal, Rio Grande do Norte, Brazil</em></p>
@@ -49,7 +49,7 @@ My goal is to grow consistently in the cybersecurity field over the next few yea
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yockaa&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align="right" width="360" />
 
-<img src="./img/Repo-elaina.png" width="420" />
+<img src="https://github.com/yockaa/yockaa/blob/main/img/%E2%9C%A9.jpeg?raw=true" width="420" />
 
 - 📂 [**My Projects Repository**](#) — *Coming Soon*
 
@@ -81,4 +81,4 @@ My goal is to grow consistently in the cybersecurity field over the next few yea
 ---
 
 <!-- Footer Image (livro, estudo, etc — pode trocar futuramente por algo com mais identidade visual) -->
-<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" />
+<img src="https://github.com/yockaa/yockaa/blob/main/img/bh.gif?raw=true" width="100%" />
